@@ -1,0 +1,32 @@
+_repo: Babylonian-and-Assyrian-Laws-Contracts-and-Letters_28674
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Johns, C. H. W. (Claude Hermann Walter)
+    alias: Johns, Claude Hermann Walter
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '7177'
+    url: http://www.gutenberg.org/2009/agents/7177
+    wikipedia: http://en.wikipedia.org/wiki/Claude_Hermann_Walter_Johns
+description: ''
+gutenberg_issued: '2009-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28674'
+  lccn: 04030997
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Assyro-Babylonian letters'
+- !lcsh 'Law, Assyro-Babylonian'
+- !lcc 'KL'
+- !lcsh 'Civilization, Assyro-Babylonian -- Sources'
+- !lcc 'DS'
+title: Babylonian and Assyrian Laws, Contracts and Letters
+url: http://www.gutenberg.org/ebooks/28674
