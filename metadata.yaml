@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7177
     wikipedia: http://en.wikipedia.org/wiki/Claude_Hermann_Walter_Johns
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28674#Babylonian-and-Assyrian-Laws-Contracts-and-Letters
 gutenberg_issued: '2009-05-03'
 gutenberg_type: Text
 identifiers:
